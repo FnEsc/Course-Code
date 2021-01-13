@@ -1,0 +1,9 @@
+﻿  4_3.cpp
+  Shiyan4.cpp
+  circle.cpp
+  point.cpp
+  正在生成代码...
+Shiyan4.obj : error LNK2005: "int __cdecl main_4_3(void)" (?main_4_3@@YAHXZ) 已经在 4_3.obj 中定义
+Shiyan4.obj : error LNK2005: "void __cdecl virtualViaPointer(class Shape const *)" (?virtualViaPointer@@YAXPBVShape@@@Z) 已经在 4_3.obj 中定义
+Shiyan4.obj : error LNK2005: "void __cdecl virtualViaReference(class Shape const &)" (?virtualViaReference@@YAXABVShape@@@Z) 已经在 4_3.obj 中定义
+D:\CodeArea\CPlus\CPlus_Source\Debug\Shiyan4.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
